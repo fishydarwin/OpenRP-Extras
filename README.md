@@ -41,4 +41,4 @@ For usage/configuration, please join the OpenRP Discord and read the #openrp-ext
 
 ### Why use Denizen?
 
-Since OpenRP 2 was released in December of 2019, I haven't found myself having the time to keep it properly updated and to add new features. There are a few features which I would love to add, but because of studies, personal studies.
+Since OpenRP 2 was released in December of 2019, I haven't found myself having the time to keep it properly updated and to add new features. There are a few features which I would love to add, but because of studies, I kind of gave up.
