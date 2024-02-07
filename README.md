@@ -14,11 +14,11 @@ The scripts included are meant to be compatible with **OpenRP 2.3.5**, and the *
 ### Installation
 
 OpenRP Extras is written in DenizenScript, so you will first need to install Denizen first.  
-Denizen[https://denizenscript.com]
+[Denizen](https://denizenscript.com)
 
 **Restart your server after installing Denizen.**
 
-Next, head over to Releases[https://github.com/fishydarwin/OpenRP-Extras/releases] and download the latest version of OpenRP Extras.
+Next, head over to [Releases](https://github.com/fishydarwin/OpenRP-Extras/releases) and download the latest version of OpenRP Extras.
 
 Open the .zip file, which will contain a folder called `OpenRP-Extras`.  
 This folder must be placed inside `plugins/Denizen/scripts`.
@@ -37,7 +37,7 @@ To complete the installation, run `/ex reload` in game or from console.
 ### Usage
 
 For usage/configuration, please join the OpenRP Discord and read the #openrp-extras channel.
-Discord[https://discord.gg/KvVqBm9hbu]
+[Discord](https://discord.gg/KvVqBm9hbu)
 
 ### Why use Denizen?
 
