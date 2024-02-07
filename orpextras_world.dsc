@@ -44,8 +44,8 @@ orpextras_world_chat:
         - define channel <[event].read_field[channel]>
         - define player <[event].read_field[player]>
         # Force Caps
-        - if <yaml[openrp_chat].contains[channels.<[channel]>.force-caps]>:
-            - define force_caps <yaml[openrp_chat].read[channels.<[channel]>.force-caps]>
+        - if <yaml[openrp_chat].contains[channels.<[channel]>.orpextras-force-caps]>:
+            - define force_caps <yaml[openrp_chat].read[channels.<[channel]>.orpextras-force-caps]>
             - if <[force_caps]>:
                 - reflectionset object:<[event]> field:message value:<[message].to_uppercase>
         # Language Channels
